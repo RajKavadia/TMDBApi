@@ -3,9 +3,6 @@
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
-  <strong>
-    Generated with ❤️ from DhiWise
-  </strong>
   <p>
     This is the documentation of Flutter Applications.
     It contains all the information you need to get started with
@@ -32,7 +29,6 @@ Flutter SDK Version 3.3.0 or greater.
 ### Figma design guidelines for better accuracy
 
 Read our guidelines to increase the accuracy of design conversion to code by optimizing Figma designs.
-https://docs.dhiwise.com/docs/Designguidelines/intro
 
 ### App Navigations
 
@@ -91,4 +87,3 @@ Resolve the errors and warnings that are shown in the application.
 
 ### Support
 
-If you have problems or questions go to our Discord channel, we will then try to help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
