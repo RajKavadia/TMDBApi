@@ -1,5 +1,5 @@
 
-# raj_s_application9
+TMDB API Example
 
 <div>
   <h1 align="center">Getting Started with Flutter 🚀 </h1>
